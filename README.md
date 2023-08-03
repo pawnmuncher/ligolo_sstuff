@@ -7,6 +7,7 @@ It will prompt you for input(s).
 
 `sudo ./ligolo_start.sh`
 
+### Input examples to follow w/explanations
 ``` sh
 Please enter the username for the TUN/TAP device (the user who will run the proxy): jhacman  #your kali username
 Please enter the full path to the ligolo directory: /home/jhacman/Documents/tools/ligolo  #full path to the ligolo FOLDER
